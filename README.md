@@ -379,7 +379,7 @@ client_id=[CLIENT_ID]
     "code": your_authorization_code_here_from_step_15,
     "client_id": your_client_id_here_from_step_5,
     "client_secret": your_client_secret_here_from_step_5,
-    "redirect_url": "http://localhost:3001/oauth2callback",
+    "redirect_uri": "http://localhost:3001/oauth2callback",
     "grant_type": "authorization_code"
 }
 
